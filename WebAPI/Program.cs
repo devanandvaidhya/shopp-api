@@ -15,6 +15,7 @@ namespace WebAPI
         {
             CreateHostBuilder(args).Build().Run(); 
 
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
